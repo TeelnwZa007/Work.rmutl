@@ -1,0 +1,434 @@
+<mxfile host="app.diagrams.net" modified="2024-07-04T12:21:16.986Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="iYxOLQ2Hw_MU99O1BBlv" version="24.6.4" type="github">
+  <diagram name="Page-1" id="rkoNFYM7RSv4awjaa2nB">
+    <mxGraphModel dx="1434" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="KANSyPpiheWUlc_iduFK-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="KANSyPpiheWUlc_iduFK-1" target="KANSyPpiheWUlc_iduFK-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KANSyPpiheWUlc_iduFK-1" value="start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KANSyPpiheWUlc_iduFK-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="KANSyPpiheWUlc_iduFK-2" target="KANSyPpiheWUlc_iduFK-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KANSyPpiheWUlc_iduFK-2" value="รับเงิน1000" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="352" y="90" width="147" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KANSyPpiheWUlc_iduFK-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="KANSyPpiheWUlc_iduFK-14" target="KANSyPpiheWUlc_iduFK-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KANSyPpiheWUlc_iduFK-14" value="รับเงิน1000ค่าของ30ทอน970" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="325.5" y="180" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KANSyPpiheWUlc_iduFK-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="KANSyPpiheWUlc_iduFK-21" target="KANSyPpiheWUlc_iduFK-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KANSyPpiheWUlc_iduFK-21" value="จำนานธนบัตร,เหรียญ 500มี3ใบ, 100มี2ใบ, 50มี3ใบ, 20มี100ใบ, 10มี200เหรียญ" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="213" y="260" width="424.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KANSyPpiheWUlc_iduFK-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="KANSyPpiheWUlc_iduFK-23" target="KANSyPpiheWUlc_iduFK-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KANSyPpiheWUlc_iduFK-23" value="จำนวนธนบัตร500&amp;gt;0" style="rhombus;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="340" y="360" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KANSyPpiheWUlc_iduFK-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="KANSyPpiheWUlc_iduFK-25" target="KANSyPpiheWUlc_iduFK-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KANSyPpiheWUlc_iduFK-25" value="เงินทอน&amp;gt;500" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="470" width="171" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KANSyPpiheWUlc_iduFK-99" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="KANSyPpiheWUlc_iduFK-27" target="KANSyPpiheWUlc_iduFK-98">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KANSyPpiheWUlc_iduFK-27" value="เงินทอน-500" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="365" y="550" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KANSyPpiheWUlc_iduFK-48" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="340" as="sourcePoint" />
+            <mxPoint x="420" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KANSyPpiheWUlc_iduFK-49" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="KANSyPpiheWUlc_iduFK-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="380" as="sourcePoint" />
+            <mxPoint x="420" y="690" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="560" y="400" />
+              <mxPoint x="560" y="690" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KANSyPpiheWUlc_iduFK-51" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="690" as="sourcePoint" />
+            <mxPoint x="420" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KANSyPpiheWUlc_iduFK-88" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" source="KANSyPpiheWUlc_iduFK-96" target="KANSyPpiheWUlc_iduFK-90" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KANSyPpiheWUlc_iduFK-89" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" source="KANSyPpiheWUlc_iduFK-90" target="KANSyPpiheWUlc_iduFK-91" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KANSyPpiheWUlc_iduFK-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="KANSyPpiheWUlc_iduFK-90">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550" y="830" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KANSyPpiheWUlc_iduFK-90" value="เงินทอน&amp;gt;100" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="335" y="800" width="171" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KANSyPpiheWUlc_iduFK-146" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="KANSyPpiheWUlc_iduFK-91" target="KANSyPpiheWUlc_iduFK-102">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KANSyPpiheWUlc_iduFK-91" value="เงินทอน-100" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="880" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KANSyPpiheWUlc_iduFK-92" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" target="KANSyPpiheWUlc_iduFK-102">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="295" y="700" as="sourcePoint" />
+            <mxPoint x="420" y="970" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="295" y="1000" />
+              <mxPoint x="420" y="1000" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KANSyPpiheWUlc_iduFK-93" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="295" y="700" as="sourcePoint" />
+            <mxPoint x="415" y="700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KANSyPpiheWUlc_iduFK-94" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" source="KANSyPpiheWUlc_iduFK-96" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="385" y="740" as="sourcePoint" />
+            <mxPoint x="415" y="1020" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="555" y="750" />
+              <mxPoint x="555" y="1020" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KANSyPpiheWUlc_iduFK-95" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="415" y="1040" as="sourcePoint" />
+            <mxPoint x="415" y="1040" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="415" y="1020" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KANSyPpiheWUlc_iduFK-96" value="จำนวนธนบัตร100&amp;gt;0" style="rhombus;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="335" y="720" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KANSyPpiheWUlc_iduFK-98" value="จำนวนธนบัตร 500ในตู้-1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="353" y="620" width="144.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KANSyPpiheWUlc_iduFK-101" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="KANSyPpiheWUlc_iduFK-98">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="340" as="sourcePoint" />
+            <mxPoint x="440" y="660" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="300" y="680" />
+              <mxPoint x="425" y="680" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KANSyPpiheWUlc_iduFK-102" value="จำนวนธนบัตร 100ในตู้-1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="350" y="940" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KANSyPpiheWUlc_iduFK-103" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;A&lt;/font&gt;&lt;/b&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=15;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="390" y="1040" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KANSyPpiheWUlc_iduFK-108" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="500" as="sourcePoint" />
+            <mxPoint x="560" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KANSyPpiheWUlc_iduFK-112" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="500" y="370" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KANSyPpiheWUlc_iduFK-114" value="Y" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="395" y="430" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KANSyPpiheWUlc_iduFK-115" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="495" y="468" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KANSyPpiheWUlc_iduFK-116" value="Y" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="390" y="520" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KANSyPpiheWUlc_iduFK-118" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="485" y="718" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KANSyPpiheWUlc_iduFK-120" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;N&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="495" y="800" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KANSyPpiheWUlc_iduFK-122" value="Y" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="390" y="770" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KANSyPpiheWUlc_iduFK-123" value="Y" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="390" y="850" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KANSyPpiheWUlc_iduFK-129" value="A" style="shape=offPageConnector;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=14;fontColor=default;fillColor=default;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="390" y="1130" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KANSyPpiheWUlc_iduFK-130" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="418" y="1180" as="sourcePoint" />
+            <mxPoint x="418" y="1210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KANSyPpiheWUlc_iduFK-131" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" source="KANSyPpiheWUlc_iduFK-145" target="KANSyPpiheWUlc_iduFK-134" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KANSyPpiheWUlc_iduFK-132" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" source="KANSyPpiheWUlc_iduFK-134" target="KANSyPpiheWUlc_iduFK-135" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KANSyPpiheWUlc_iduFK-133" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" source="KANSyPpiheWUlc_iduFK-134" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="558" y="1320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KANSyPpiheWUlc_iduFK-134" value="เงินทอน&amp;gt;50" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="333" y="1290" width="171" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KANSyPpiheWUlc_iduFK-148" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="KANSyPpiheWUlc_iduFK-135" target="KANSyPpiheWUlc_iduFK-140">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KANSyPpiheWUlc_iduFK-135" value="เงินทอน-50" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="358" y="1380" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KANSyPpiheWUlc_iduFK-136" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" target="KANSyPpiheWUlc_iduFK-140" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="293" y="1190" as="sourcePoint" />
+            <mxPoint x="418" y="1460" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="293" y="1490" />
+              <mxPoint x="418" y="1490" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KANSyPpiheWUlc_iduFK-137" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="293" y="1190" as="sourcePoint" />
+            <mxPoint x="413" y="1190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KANSyPpiheWUlc_iduFK-138" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" source="KANSyPpiheWUlc_iduFK-145" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="383" y="1230" as="sourcePoint" />
+            <mxPoint x="410" y="1510" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="560" y="1240" />
+              <mxPoint x="560" y="1510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KANSyPpiheWUlc_iduFK-139" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;entryX=0.517;entryY=-0.015;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="407" y="1510" as="sourcePoint" />
+            <mxPoint x="407.5" y="1558" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KANSyPpiheWUlc_iduFK-140" value="จำนวนธนบัตร 50ในตู้-1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="348" y="1430" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KANSyPpiheWUlc_iduFK-141" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="483" y="1208" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KANSyPpiheWUlc_iduFK-142" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;N&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="493" y="1290" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KANSyPpiheWUlc_iduFK-143" value="Y" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="388" y="1260" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KANSyPpiheWUlc_iduFK-144" value="Y" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="388" y="1340" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KANSyPpiheWUlc_iduFK-145" value="จำนวนธนบัตร50&amp;gt;0" style="rhombus;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="333" y="1210" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KANSyPpiheWUlc_iduFK-147" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="375" y="1368" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KANSyPpiheWUlc_iduFK-168" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" source="KANSyPpiheWUlc_iduFK-182" target="KANSyPpiheWUlc_iduFK-184" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KANSyPpiheWUlc_iduFK-169" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" source="KANSyPpiheWUlc_iduFK-184" target="KANSyPpiheWUlc_iduFK-172" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KANSyPpiheWUlc_iduFK-170" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" source="KANSyPpiheWUlc_iduFK-184" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="547.5" y="1670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KANSyPpiheWUlc_iduFK-171" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" source="KANSyPpiheWUlc_iduFK-172" target="KANSyPpiheWUlc_iduFK-177" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KANSyPpiheWUlc_iduFK-172" value="เงินทอน-20" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="347.5" y="1730" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KANSyPpiheWUlc_iduFK-173" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" target="KANSyPpiheWUlc_iduFK-177" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="282.5" y="1540" as="sourcePoint" />
+            <mxPoint x="407.5" y="1810" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="282.5" y="1840" />
+              <mxPoint x="407.5" y="1840" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KANSyPpiheWUlc_iduFK-174" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="282.5" y="1540" as="sourcePoint" />
+            <mxPoint x="402.5" y="1540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KANSyPpiheWUlc_iduFK-175" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" source="KANSyPpiheWUlc_iduFK-182" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="372.5" y="1580" as="sourcePoint" />
+            <mxPoint x="400" y="1860" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="550" y="1590" />
+              <mxPoint x="550" y="1860" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KANSyPpiheWUlc_iduFK-177" value="จำนวนธนบัตร 20ในตู้-1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="337.5" y="1780" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KANSyPpiheWUlc_iduFK-178" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="472.5" y="1558" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KANSyPpiheWUlc_iduFK-179" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;N&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="482.5" y="1640" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KANSyPpiheWUlc_iduFK-180" value="Y" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="377.5" y="1610" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KANSyPpiheWUlc_iduFK-181" value="Y" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="377.5" y="1690" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KANSyPpiheWUlc_iduFK-182" value="จำนวนธนบัตร20&amp;gt;0" style="rhombus;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="322.5" y="1560" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KANSyPpiheWUlc_iduFK-183" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="364.5" y="1718" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KANSyPpiheWUlc_iduFK-184" value="เงินทอน&amp;gt;20" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="322.5" y="1640" width="171" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KANSyPpiheWUlc_iduFK-188" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" source="KANSyPpiheWUlc_iduFK-202" target="KANSyPpiheWUlc_iduFK-204" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KANSyPpiheWUlc_iduFK-189" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" source="KANSyPpiheWUlc_iduFK-204" target="KANSyPpiheWUlc_iduFK-192" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KANSyPpiheWUlc_iduFK-190" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" source="KANSyPpiheWUlc_iduFK-204" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="545" y="2480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KANSyPpiheWUlc_iduFK-191" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" source="KANSyPpiheWUlc_iduFK-192" target="KANSyPpiheWUlc_iduFK-197" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KANSyPpiheWUlc_iduFK-192" value="เงินทอน-10" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="345" y="2540" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KANSyPpiheWUlc_iduFK-193" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" target="KANSyPpiheWUlc_iduFK-197" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="2350" as="sourcePoint" />
+            <mxPoint x="405" y="2620" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="280" y="2650" />
+              <mxPoint x="405" y="2650" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KANSyPpiheWUlc_iduFK-194" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="2350" as="sourcePoint" />
+            <mxPoint x="400" y="2350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KANSyPpiheWUlc_iduFK-195" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" source="KANSyPpiheWUlc_iduFK-202" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="2390" as="sourcePoint" />
+            <mxPoint x="400" y="2670" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="550" y="2400" />
+              <mxPoint x="550" y="2670" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KANSyPpiheWUlc_iduFK-196" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="2690" as="sourcePoint" />
+            <mxPoint x="400" y="2710" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="400" y="2670" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KANSyPpiheWUlc_iduFK-197" value="จำนวนเหรียญ 10ในตู้-1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="335" y="2590" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KANSyPpiheWUlc_iduFK-198" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="470" y="2368" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KANSyPpiheWUlc_iduFK-199" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;N&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="480" y="2450" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KANSyPpiheWUlc_iduFK-200" value="Y" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="375" y="2420" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KANSyPpiheWUlc_iduFK-201" value="Y" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="375" y="2500" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KANSyPpiheWUlc_iduFK-202" value="จำนวนเหรียญ10&amp;gt;0" style="rhombus;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="320" y="2370" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KANSyPpiheWUlc_iduFK-203" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="362" y="2528" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KANSyPpiheWUlc_iduFK-204" value="เงินทอน&amp;gt;10" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="2450" width="171" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KANSyPpiheWUlc_iduFK-225" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="1860" as="sourcePoint" />
+            <mxPoint x="400" y="1950" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KANSyPpiheWUlc_iduFK-226" value="B" style="shape=offPageConnector;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=15;fontColor=default;fillColor=default;size=0.6;" vertex="1" parent="1">
+          <mxGeometry x="370" y="1950" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KANSyPpiheWUlc_iduFK-227" value="B" style="shape=offPageConnector;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=15;fontColor=default;fillColor=default;size=0.6;" vertex="1" parent="1">
+          <mxGeometry x="375" y="2250" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KANSyPpiheWUlc_iduFK-245" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=-0.021;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KANSyPpiheWUlc_iduFK-227" target="KANSyPpiheWUlc_iduFK-202">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="2570" as="sourcePoint" />
+            <mxPoint x="406" y="2371" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KANSyPpiheWUlc_iduFK-253" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="KANSyPpiheWUlc_iduFK-250" target="KANSyPpiheWUlc_iduFK-252">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KANSyPpiheWUlc_iduFK-250" value="จำนวนเงินที่ได้ ธนบัตร500 1ใบ , 100 2ใบ , 50 3ใบ , 20 6ใบ" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="221.5" y="2720" width="357" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KANSyPpiheWUlc_iduFK-252" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;stop&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="340" y="2830" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
